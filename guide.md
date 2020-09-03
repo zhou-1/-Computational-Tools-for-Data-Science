@@ -1,3 +1,6 @@
+https://github.com/gallettilance/CS506-Fall2020/blob/master/00-git/exercises/exercise1.md      
+https://github.com/gallettilance/CS506-Fall2020/tree/master/00-git    
+
 1. clone the repo    
 ```git clone <url_name>```     
 2. cd into the repo   
