@@ -13,10 +13,9 @@
 9.  pull these changes locally    
 ```git checkout master```    
 ```git pull origin master```     
-
 Step 15: delete the file    
 ```rm my-new-file.md ```   
-Step 16: recover the file    
+Step 16: recover the file     
 ```git status```    
 Notice that git sees the file was deleted. Undo the change to this file (the change being the deletion)     
 ```git checkout my-new-file.md```   
